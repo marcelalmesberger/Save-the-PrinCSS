@@ -1,2 +1,2 @@
 # Save-the-PrinCSS
-JavaScript-Game
+JavaScript-Game using JQuery
