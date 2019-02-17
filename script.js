@@ -1,10 +1,12 @@
 //GLOBAL VARIABLES
 
-//creating Objects
+//creates Fighter class
 function fighter(name, lifeEnergy) {
     this.name = name;
     this.life = lifeEnergy;
 }
+
+//creates one object for the player and the dragon of the Fighter class
 var player = new fighter("Player", 10);
 var dragon = new fighter("Dragon", 10);
 
