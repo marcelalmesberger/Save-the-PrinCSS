@@ -1,2 +1,4 @@
 # Save-the-PrinCSS
-JavaScript-Game using JQuery
+A simple text-based Browser game using JavaScript and JQuery
+
+In this game you will fight an evil dragon to rescue the princess
