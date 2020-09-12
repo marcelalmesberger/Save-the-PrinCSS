@@ -2,6 +2,10 @@
 
 Simple text-based browser game, which sends you on a quest to rescue a princess from an evil dragon.
 
+## Used technologies
+
+HTML, CSS, JavaScript, jQuery
+
 ## Prerequisites
 
 No preparations needed.
